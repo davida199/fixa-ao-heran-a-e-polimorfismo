@@ -1,0 +1,13 @@
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\bin\Debug\netcoreapp3.1\fixação herança e polimorfismo.exe
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\bin\Debug\netcoreapp3.1\fixação herança e polimorfismo.deps.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\bin\Debug\netcoreapp3.1\fixação herança e polimorfismo.runtimeconfig.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\bin\Debug\netcoreapp3.1\fixação herança e polimorfismo.runtimeconfig.dev.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\bin\Debug\netcoreapp3.1\fixação herança e polimorfismo.dll
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\bin\Debug\netcoreapp3.1\fixação herança e polimorfismo.pdb
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\obj\Debug\netcoreapp3.1\fixação herança e polimorfismo.csproj.AssemblyReference.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\obj\Debug\netcoreapp3.1\fixação herança e polimorfismo.AssemblyInfoInputs.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\obj\Debug\netcoreapp3.1\fixação herança e polimorfismo.AssemblyInfo.cs
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\obj\Debug\netcoreapp3.1\fixação herança e polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\obj\Debug\netcoreapp3.1\fixação herança e polimorfismo.dll
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\obj\Debug\netcoreapp3.1\fixação herança e polimorfismo.pdb
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\fixação herança e polimorfismo\fixação herança e polimorfismo\obj\Debug\netcoreapp3.1\fixação herança e polimorfismo.genruntimeconfig.cache
